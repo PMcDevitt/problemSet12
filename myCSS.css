@@ -1,0 +1,26 @@
+#entry-point{
+    text-align:center;
+}
+
+#mainPanel{
+    width:100%;
+    float: left;
+}
+
+#thoughtsList{
+    float:left;
+    width: 50%;
+}
+
+#thoughtPanel{
+    float:left;
+    width: 50%;
+}
+
+section{
+    border: solid 1px black;
+}
+input{
+    height: 150px;
+    width: 200px;
+}
